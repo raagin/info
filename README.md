@@ -13,7 +13,7 @@ I can work from idea to product launch.
 ## Programming instruments: 
 - Django/Python
 - JS (jQuery, React, Backbone)
-- NodeJS (as a front-end builder) 
+- NodeJS (as front-end builder) 
 - HTML5 (Bootstrap)
 - CSS3/SASS(Compass)
 - Git
@@ -44,4 +44,7 @@ I can work from idea to product launch.
 - http://elenakornilova.com (design/front-end/back-end/launch)
 - http://umarch.com (design/front-end/back-end/launch)
 - http://hcsibir.ru (design, front-end)
+
+## My web-site
+http://raagin.ru
 

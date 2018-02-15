@@ -2,7 +2,7 @@
 
 I'am a full stack developer and web-designer.
 ## Experience
-- Grafic design (17 years)
+- Grafic design (15 years)
 - Web-design (12 years)
 - Web-development (9 years)
 - Django/Python (6 years)
@@ -12,10 +12,12 @@ I can work from idea to product launch.
 
 ## Programming instruments: 
 - Django/Python
-- JavaScript (React)
-- NodeJS (as a front-end compiler) 
-- HTML5/SASS(Compass)
-- Linux
+- JS (jQuery, React, Backbone)
+- NodeJS (as a front-end builder) 
+- HTML5 (Bootstrap)
+- CSS3/SASS(Compass)
+- Git
+- Linux/Mac
 - ...
 
 ## Design instruments:
@@ -26,22 +28,20 @@ I can work from idea to product launch.
 - Adobe Indesign
 - ...
 
-## My works:
-- http://www.mmrg.ru (full-stack*)
-- https://udobno.moscow (full-stack)
-- https://autonamore.ru (full-stack)
-- https://bersoantik.com (full-stack)
-- http://alltech.ru (full-stack)
-- http://unity.moscow (full-stack)
-- http://portner.ru (full-stack without design)
-- http://313stuff.com (full-stack)
-- http://maria.levinskaya.ru (full-stack)
-- http://fedorlyass.com (full-stack without design)
-- http://vostokcoal.ru (full-stack)
-- http://malva2malva.ru (full-stack)
-- http://elenakornilova.com (full-stack)
-- http://umarch.com (full-stack)
+## Selected works:
+- http://www.mmrg.ru (design/front-end/back-end/launch)
+- https://udobno.moscow (design/front-end/back-end/launch)
+- https://autonamore.ru (design/front-end/back-end/launch)
+- https://bersoantik.com (design/front-end/back-end/launch)
+- http://alltech.ru (design/front-end/back-end/launch)
+- http://unity.moscow (design/front-end/back-end/launch)
+- http://portner.ru (front-end/back-end/launch)
+- http://313stuff.com (design/front-end/back-end/launch)
+- http://maria.levinskaya.ru (design/front-end/back-end/launch)
+- http://fedorlyass.com (front-end/back-end/launch)
+- http://vostokcoal.ru (design/front-end/back-end/launch)
+- http://malva2malva.ru (design/front-end/back-end/launch)
+- http://elenakornilova.com (design/front-end/back-end/launch)
+- http://umarch.com (design/front-end/back-end/launch)
 - http://hcsibir.ru (design, front-end)
-
-***full-stack**: design/front-end/back-end/launch
 

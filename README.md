@@ -12,23 +12,22 @@ I can work from idea to product launch.
 
 ## Programming instruments: 
 - Django/Python
-- JS (jQuery, React, Backbone)
-- NodeJS (as front-end builder) 
-- HTML5 (Bootstrap)
+- JS (Vue, React, Backbone)
+- NodeJS as front-end builder (Gulp, Webpack)
+- HTML5 (Bootstrap, etc)
 - CSS3/SASS(Compass)
 - Git
-- Linux/Mac
+- Mac/Linux
 - ...
 
 ## Design instruments:
 - Adobe Photoshop
-- Sketch
 - Adobe XD
 - Adobe Illustrator
-- Adobe Indesign
 - ...
 
 ## Selected works:
+- https://www.geniusfund.com (design/front-end/back-end/launch)
 - http://www.mmrg.ru (design/front-end/back-end/launch)
 - https://udobno.moscow (design/front-end/back-end/launch)
 - https://autonamore.ru (design/front-end/back-end/launch)

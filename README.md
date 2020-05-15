@@ -2,7 +2,7 @@
 
 I'am a full stack developer and web-designer.
 ## Experience
-- Grafic design (over 15 years)
+- Grafic design (~8 years)
 - Web-design (~12 years)
 - Web-development (~10 years)
 - Django/Python (9 years)

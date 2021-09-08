@@ -2,10 +2,9 @@
 
 I'am a full stack developer and web-designer.
 ## Experience
-- Grafic design (~8 years)
-- Web-design (~12 years)
-- Web-development (~10 years)
-- Django/Python (9 years)
+- Web-development
+- Web-design
+- Grafic design
 
 ## Skills
 I can work from idea to product launch.
@@ -28,11 +27,11 @@ I can work from idea to product launch.
 
 ## Selected works:
 - https://autopremiumgroup.ru/ (design/front-end/back-end/launch)
-- http://cgcompany.ru/ (design/front-end/back-end/launch)
-- http://www.mmrg.ru (design/front-end/back-end/launch)
-- https://www.sibanthracite.ru (front-end/back-end/launch)
-- https://autonamore.ru (design/front-end/back-end/launch)
 - https://bersoantik.com (design/front-end/back-end/launch)
+- https://www.sibanthracite.ru (front-end/back-end/launch)
+- http://cgcompany.ru/ (design/front-end/back-end/launch)
+- https://autonamore.ru (design/front-end/back-end/launch)
+- http://www.mmrg.ru (design/front-end/back-end/launch)
 - http://alltech.ru (design/front-end/back-end/launch)
 - http://unity.moscow (design/front-end/back-end/launch)
 - http://portner.ru (front-end/back-end/launch)

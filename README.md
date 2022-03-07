@@ -1,23 +1,29 @@
-# Yury Lapshinov CV
+# Yury Lapshinov CV  
 
-I'am a full stack developer and web-designer.
+I'am a full stack developer and web-designer sometimes)
+
 ## Experience
-- Web-development
+- Full stack web-development
 - Web-design
-- Grafic design
+- UX/UI
+- Grafic design (just a little)
 
 ## Skills
 I can work from idea to product launch.
+Normally i work with graphic designers, SEO specialists and business representatives. 
+I make mockups and prototypes with XD, plan architecture of applications, a structure of the database. 
+HTML layout, styling, JS-coding and Python backend or/and API with Django Rest Framework
+Minus of this wide skills it is not so deep knowledges that have a narrow specialists,
+but i try to learn quickly)
 
-## Programming instruments: 
-- Django/Python
-- JS (Vue, React, Backbone)
-- NodeJS as front-end builder (Gulp, Webpack)
+## Main programming instruments: 
+- Python (Django)
+- JS (Vue, Nuxt)
+- NodeJS as front-end builder (Webpack, Gulp)
 - HTML5 (Bootstrap, etc)
-- CSS3/SASS(Compass)
+- SCSS
 - Git
 - Mac/Linux
-- ...
 
 ## Design instruments:
 - Adobe XD
@@ -25,19 +31,45 @@ I can work from idea to product launch.
 - Adobe Illustrator
 - ...
 
+## Additional expirience
+- Shopify 2.0 theme design
+
 ## Selected works:
-- https://autopremiumgroup.ru/ (design/front-end/back-end/launch)
-- https://bersoantik.com (design/front-end/back-end/launch)
-- https://www.sibanthracite.ru (front-end/back-end/launch)
-- http://cgcompany.ru/ (design/front-end/back-end/launch)
-- https://autonamore.ru (design/front-end/back-end/launch)
-- http://www.mmrg.ru (design/front-end/back-end/launch)
-- http://alltech.ru (design/front-end/back-end/launch)
-- http://unity.moscow (design/front-end/back-end/launch)
-- http://portner.ru (front-end/back-end/launch)
-- http://313stuff.com (design/front-end/back-end/launch)
-- http://maria.levinskaya.ru (design/front-end/back-end/launch)
-- http://hcsibir.ru (design, front-end)
+https://autopremiumgroup.ru/   
+design / front-end / back-end / administrative interface / launch  
+Website for a car dealership. With a large administrative part for an office of 10+ employees.
+The site uses: Postgres, Memcached, Celery, DjangoRestFramework, VueJS
+
+https://bersoantik.com  
+design / front-end / back-end / administrative interface / launch  
+Old project with a lot of redesigns and improvements. For this project i made
+bulk image uploads and sorting. I plan to share this module as open source
+
+https://growor.com/  
+front-end / back-end / administrative interface / launch  
+With JS scroll animations
+
+https://www.drinkdayone.com/
+front-end / Shopify theme design
+
+http://cgcompany.ru/   
+design / front-end / back-end / administrative interface / launch  
+Interesting was a working with paralax on home page
+
+https://kano.rest/  
+http://unity.moscow   
+http://313stuff.com   
+http://maria.levinskaya.ru   
+design / front-end / back-end / administrative interface / launch
+Small websites.
+
+http://hcsibir.ru 
+design / front-end / back-end partialy / administrative interface / launch
+Back-end here was Ruby On Rails
+
+## Open Source
+- https://github.com/raagin/django-streamfield
+- https://github.com/raagin/django-tablefield
 
 ## My web-site
 https://raagin.ru

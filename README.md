@@ -64,8 +64,8 @@ design / front-end / back-end / administrative interface / launch
 Small websites.
 
 http://hcsibir.ru  
-design / front-end / back-end partialy / administrative interface / launch
-Back-end here was Ruby On Rails
+design / front-end / back-end partialy / administrative interface / launch  
+Back-end: Ruby On Rails
 
 ## Open Source
 - https://github.com/raagin/django-streamfield

@@ -32,7 +32,7 @@ but i try to learn quickly)
 - ...
 
 ## Additional expirience
-- Shopify 2.0 theme design
+- Shopify 2.0 theme development
 
 ## Selected works:
 https://autopremiumgroup.ru/   
@@ -50,7 +50,7 @@ front-end / back-end / administrative interface / launch
 With JS scroll animations
 
 https://www.drinkdayone.com/  
-technical design / front-end / Shopify theme design
+technical design / front-end / Shopify theme development
 
 http://cgcompany.ru/   
 design / front-end / back-end / administrative interface / launch  

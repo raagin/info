@@ -49,7 +49,7 @@ https://growor.com/
 front-end / back-end / administrative interface / launch  
 With JS scroll animations
 
-https://www.drinkdayone.com/
+https://www.drinkdayone.com/  
 front-end / Shopify theme design
 
 http://cgcompany.ru/   

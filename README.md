@@ -50,7 +50,7 @@ front-end / back-end / administrative interface / launch
 With JS scroll animations
 
 https://www.drinkdayone.com/  
-front-end / Shopify theme design
+technical design / front-end / Shopify theme design
 
 http://cgcompany.ru/   
 design / front-end / back-end / administrative interface / launch  

@@ -3,7 +3,7 @@
 I'am a full stack developer and web-designer sometimes)
 
 ## Experience
-- Full stack web-development
+- Full stack web-development (~10 years)
 - Web-design
 - UX/UI
 - Grafic design (just a little)
@@ -14,7 +14,7 @@ Normally i work with graphic designers, SEO specialists and business representat
 I make mockups and prototypes with XD, plan architecture of applications, a structure of the database. 
 HTML layout, styling, JS-coding and Python backend or/and API with Django Rest Framework.  
 Minus of this wide skills;) it is not so deep knowledges that have a narrow specialists,
-but i try to learn quickly or collaborate with narrow specialists
+but i try to learn quickly.
 
 ## Main programming instruments: 
 - Python (Django)

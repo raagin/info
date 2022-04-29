@@ -73,6 +73,7 @@ Back-end: Ruby On Rails
 ## Open Source
 - https://github.com/raagin/django-streamfield
 - https://github.com/raagin/django-tablefield
+- https://github.com/raagin/django-uploadfield
 
 ## My web-site
 https://raagin.ru

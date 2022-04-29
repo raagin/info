@@ -13,8 +13,7 @@ I can work from idea to product launch.
 Normally i work with graphic designers, SEO specialists and business representatives. 
 I make mockups and prototypes with XD, plan architecture of applications, a structure of the database. 
 HTML layout, styling, JS-coding and Python backend or/and API with Django Rest Framework.  
-Minus of this wide skills;) it is not so deep knowledges that have a narrow specialists,
-but i try to learn quickly.
+I love learning new things.
 
 ## Main programming instruments: 
 - Python (Django)

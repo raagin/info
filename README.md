@@ -32,6 +32,7 @@ I love learning new things.
 
 ## Additional expirience
 - Shopify 2.0 theme development
+- Ruby On Rails
 
 ## Selected works:
 https://autopremiumgroup.ru/   

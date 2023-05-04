@@ -3,7 +3,7 @@
 I'am a full stack developer and web-designer sometimes)
 
 ## Experience
-- Full stack web-development (~10 years)
+- Full stack web-development (>10 years)
 - Web-design
 - UX/UI
 - Grafic design (just a little)
@@ -20,7 +20,7 @@ I love learning new things.
 - JS (Vue, Nuxt)
 - NodeJS as front-end builder (Webpack, Gulp)
 - HTML5 (Bootstrap, etc)
-- SCSS
+- SCSS/SASS
 - Git
 - Mac/Linux
 
@@ -35,6 +35,11 @@ I love learning new things.
 - Ruby On Rails
 
 ## Selected works:
+https://olovomsc.com/   
+design / front-end / back-end / administrative interface / launch  
+Online store.
+The site uses: Postgres, Memcached, Celery, DjangoRestFramework, VueJS
+
 https://autopremiumgroup.ru/   
 design / front-end / back-end / administrative interface / launch  
 Website for a car dealership. With a large administrative part for an office of 10+ employees.
@@ -72,8 +77,6 @@ Back-end: Ruby On Rails
 
 ## Open Source
 - https://github.com/raagin/django-streamfield
-- https://github.com/raagin/django-tablefield
-- https://github.com/raagin/django-uploadfield
 
 ## My web-site
 https://raagin.ru

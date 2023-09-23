@@ -18,9 +18,9 @@ I love learning new things.
 ## Main programming instruments: 
 - Python (Django)
 - JS (Vue, Nuxt)
-- NodeJS as front-end builder (Webpack, Gulp)
+- NodeJS as front-end builder (Webpack, Vite, Gulp)
 - HTML5 (Bootstrap, etc)
-- SCSS/SASS
+- SCSS/SASS/Tailwind CSS
 - Git
 - Mac/Linux
 
@@ -31,8 +31,9 @@ I love learning new things.
 - ...
 
 ## Additional expirience
-- Shopify 2.0 theme development
-- Ruby On Rails
+- Shopify 2.0 theme development (Liquid)
+- Ruby On Rails (Ruby)
+- Kirby CMS (PHP)
 
 ## Selected works:
 https://olovomsc.com/   

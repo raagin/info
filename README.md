@@ -31,8 +31,8 @@ I love learning new things.
 - ...
 
 ## Additional expirience
-- Shopify 2.0 theme development (Liquid)
-- Ruby On Rails (Ruby)
+- Shopify 2.0 theme development
+- Ruby On Rails
 - Kirby CMS (PHP)
 
 ## Selected works:

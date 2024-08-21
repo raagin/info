@@ -22,6 +22,7 @@ I love learning new things.
 - HTML5 (Bootstrap, etc)
 - SCSS/SASS/Tailwind CSS
 - Git
+- Docker
 - Mac/Linux
 
 ## Design instruments:

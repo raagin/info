@@ -36,15 +36,25 @@ I love learning new things.
 - Kirby CMS (PHP)
 
 ## Selected works:
+[https://black-corporation.com/](https://black-corporation.com/)   
+design / front-end / back-end / administrative interface / launch  
+Online store.
+The site uses: Stripe API, Postgres, Redis, Memcached, Celery, DjangoRestFramework, VueJS
+
+[https://ukplateauction.com/](https://ukplateauction.com/)
+design / front-end / back-end / administrative interface / launch  
+Online auction. With async server solutions.
+The site uses: Daphne, WebSockets, Postgres, Redis, Memcached, Celery, DjangoRestFramework, VueJS
+
 https://olovomsc.com/   
 design / front-end / back-end / administrative interface / launch  
 Online store.
-The site uses: Postgres, Memcached, Celery, DjangoRestFramework, VueJS
+The site uses: Postgres, Redis, Memcached, Celery, DjangoRestFramework, VueJS
 
 https://autopremiumgroup.ru/   
 design / front-end / back-end / administrative interface / launch  
 Website for a car dealership. With a large administrative part for an office of 10+ employees.
-The site uses: Postgres, Memcached, Celery, DjangoRestFramework, VueJS
+The site uses: Postgres, Redis, Memcached, Celery, DjangoRestFramework, VueJS
 
 https://bersoantik.com  
 design / front-end / back-end / administrative interface / launch  

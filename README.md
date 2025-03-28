@@ -6,7 +6,7 @@ I'am a full stack developer and web-designer sometimes)
 - Full stack web-development (>10 years)
 - Web-design
 - UX/UI
-- Grafic design (just a little)
+- Graphic design (just a little)
 
 ## Skills
 I can work from idea to product launch.
@@ -67,11 +67,7 @@ front-end / back-end / administrative interface / launch
 With JS scroll animations
 
 https://www.drinkdayone.com/  
-technical design / front-end / Shopify theme development
-
-http://cgcompany.ru/   
-design / front-end / back-end / administrative interface / launch  
-Interesting was a working with paralax on home page
+technical design / front-end / Shopify theme 
 
 https://ufocalifornia.com/
 Creative Company of my friends
